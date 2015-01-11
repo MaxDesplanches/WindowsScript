@@ -1,6 +1,6 @@
 
 
-Welcome to the WindowsScript wiki!
+Welcome to the WindowsScript Repository !
 
 To run PowerShell script:
 
